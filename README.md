@@ -5,10 +5,10 @@
 ## You will find in this repo:
 * Math Utitity Java source code
 * .gitignore file to tell Git which one will be uploaded
-* README.md - this file itself to show the home page of this repo
+* README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://facebook.com/st.killerd)
-[Email](mailto: hoavqse130608@fpt.edu.vn)
+1. [Facebook](https://facebook.com/st.killerd)
+2. [Email](mailto:hoavqse130608@fpt.edu.vn)
 
 #### © 2020 by stkillerd
