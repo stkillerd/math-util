@@ -11,7 +11,6 @@
 1. [Facebook](https://facebook.com/st.killerd)
 2. [Email](mailto:hoavqse130608@fpt.edu.vn)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Practice CI with GitHub Actions using Ant and JUnit | © 2020 by stkillerd](https://github.com/stkillerd/math-util/workflows/Practice%20CI%20with%20GitHub%20Actions%20using%20Ant%20and%20JUnit%20%7C%20%C2%A9%202020%20by%20stkillerd/badge.svg)
 
 #### © 2020 by stkillerd
