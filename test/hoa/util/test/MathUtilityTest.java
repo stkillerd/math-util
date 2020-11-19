@@ -23,11 +23,15 @@ public class MathUtilityTest {
             assertEquals(1, MathUtility.getFactorial(0));
             assertEquals(720, MathUtility.getFactorial(6));
             assertEquals(1, MathUtility.getFactorial(1));
-            assertEquals(12, MathUtility.getFactorial(5));
+            assertEquals(24, MathUtility.getFactorial(4));
     }
     // viết code để test code 
     // viết code dùng thư viện JUnit,xUnit, Jasmine để test
     //xem code chính chạy ổn không trc khi đem cho khách hàng/QC
     //nếu màu đỏ k cho clean and build 
     //TDD viết code kèm với viết code test test driven development
+    //jenskin, circle ci, bamboo ci, github actions
+    // buil thành công đưa vào server khác(staging)
+    //DevOps.
+    //work flow. báo vs git muốn làm những cái nào
 }
